@@ -1,0 +1,45 @@
+name: sharik
+description: Sharik is an app for sending files to almost any device.
+homepage: https://github.com/yazeedalkhalaf/sharik
+repository: https://github.com/yazeedalkhalaf/sharik
+issue_tracker: https://github.com/yazeedalkhalaf/sharik/issues
+version: 1.0.0+1
+
+author: Yazeed AlKhalaf
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^0.17.2
+  google_fonts: ^0.3.9
+  intro_slider: ^2.2.9
+  file_picker: ^1.4.3+2
+  url_launcher: ^5.4.2
+  wifi_iot: ^0.1.1
+  # flutter_clipboard_manager: ^0.0.2
+  # clipboard_manager: ^0.0.4
+  path_provider: ^1.6.5
+  hive: ^1.4.1+1
+  hive_flutter: ^0.3.0+2
+  device_apps: ^1.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.7.4
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/sharik_logo_512x512.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - google_fonts/
