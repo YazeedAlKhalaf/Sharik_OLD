@@ -1,6 +1,11 @@
 # ![sharik_feature_graphic]
 
 ![license_badge]
+![verion_badge]
+![downloads_badge]
+![stars_badge]
+![forks_badge]
+![issues_badge]
 
 # About the app
 
@@ -27,7 +32,7 @@ If you have some problems with Google Play, here are the latest apks:
 
 ### Windows
 
-Application is not signed, so you may get 'suspicios application' alert or something like that. Ignore it. Or you can give me a few hundred bucks, so I can buy a certificate :>
+Application is not signed, so you may get 'suspicios application' alert or something like that. Ignore it.
 
 - [Installation file (recommended)](https://github.com/yazeedalkhalaf/sharik/releases/download/v0.0.1/sharik_v0.0.1_windows.msi)
 - [Portable](https://github.com/yazeedalkhalaf/sharik/releases/download/v0.0.1/sharik_v0.0.1_windows.zip)
@@ -65,4 +70,9 @@ Feel free to leave an issue or create a pull request :>
 MIT
 
 [sharik_feature_graphic]: assets/sharik_feature_graphic.png
-[license_badge]: https://img.shields.io/github/license/yazeedalkhalaf/sharik
+[license_badge]: https://img.shields.io/github/license/yazeedalkhalaf/sharik?style=for-the-badge
+[downloads_badge]: https://img.shields.io/github/downloads/YazeedAlKhalaf/Sharik/total?style=for-the-badge
+[verion_badge]: https://img.shields.io/github/v/release/YazeedAlKhalaf/Sharik?style=for-the-badge
+[stars_badge]: https://img.shields.io/github/stars/YazeedAlKhalaf/Sharik?style=for-the-badge
+[issues_badge]: https://img.shields.io/github/issues/YazeedAlKhalaf/Sharik?style=for-the-badge
+[forks_badge]: https://img.shields.io/github/forks/YazeedAlKhalaf/Sharik?style=for-the-badge
