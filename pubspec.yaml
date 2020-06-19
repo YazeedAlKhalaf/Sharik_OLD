@@ -35,7 +35,7 @@ dev_dependencies:
 
 flutter_icons:
   android: "launcher_icon"
-  ios: false
+  ios: true
   image_path: "assets/sharik_logo_512x512.png"
 
 flutter:
